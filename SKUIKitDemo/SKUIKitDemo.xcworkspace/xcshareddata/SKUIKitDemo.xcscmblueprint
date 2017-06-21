@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "55960DC2146A3CA080F2A8058D339F6F0FC7FE87",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55960DC2146A3CA080F2A8058D339F6F0FC7FE87" : 9223372036854775807,
+    "4DBC3840A3AF450EE874FD0C956297E23C25C3BA" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CE2F8D8A-235B-417B-9BE2-6F3C40C13A5B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55960DC2146A3CA080F2A8058D339F6F0FC7FE87" : "SKUIKit\/",
+    "4DBC3840A3AF450EE874FD0C956297E23C25C3BA" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SKUIKitDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SKUIKitDemo\/SKUIKitDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Sakyaa\/SKUtils.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4DBC3840A3AF450EE874FD0C956297E23C25C3BA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Sakyaa\/SKUIKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55960DC2146A3CA080F2A8058D339F6F0FC7FE87"
+    }
+  ]
+}
