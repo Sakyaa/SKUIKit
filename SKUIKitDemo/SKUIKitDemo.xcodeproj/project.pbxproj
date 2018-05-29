@@ -15,7 +15,6 @@
 		364D1C7F1EFA586E00AC2595 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 364D1C7D1EFA586E00AC2595 /* LaunchScreen.storyboard */; };
 		364D1C8A1EFA586E00AC2595 /* SKUIKitDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 364D1C891EFA586E00AC2595 /* SKUIKitDemoTests.m */; };
 		364D1C951EFA586E00AC2595 /* SKUIKitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 364D1C941EFA586E00AC2595 /* SKUIKitDemoUITests.m */; };
-		36663DC91F989B2400856702 /* AppMonitorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 36663DC81F989B2400856702 /* AppMonitorManager.m */; };
 		36E0D3091F924AC500AF933D /* SKActionSheet.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E0D29D1F924AC500AF933D /* SKActionSheet.m */; };
 		36E0D30A1F924AC500AF933D /* SKAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E0D2A01F924AC500AF933D /* SKAlertView.m */; };
 		36E0D3351F924AC500AF933D /* SKPickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 36E0D3021F924AC500AF933D /* SKPickerView.m */; };
@@ -58,8 +57,6 @@
 		364D1C901EFA586E00AC2595 /* SKUIKitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SKUIKitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		364D1C941EFA586E00AC2595 /* SKUIKitDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SKUIKitDemoUITests.m; sourceTree = "<group>"; };
 		364D1C961EFA586E00AC2595 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		36663DC71F989B2400856702 /* AppMonitorManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppMonitorManager.h; sourceTree = "<group>"; };
-		36663DC81F989B2400856702 /* AppMonitorManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppMonitorManager.m; sourceTree = "<group>"; };
 		36E0D29C1F924AC500AF933D /* SKActionSheet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKActionSheet.h; sourceTree = "<group>"; };
 		36E0D29D1F924AC500AF933D /* SKActionSheet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SKActionSheet.m; sourceTree = "<group>"; };
 		36E0D29F1F924AC500AF933D /* SKAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SKAlertView.h; sourceTree = "<group>"; };
@@ -174,19 +171,9 @@
 			path = SKUIKitDemoUITests;
 			sourceTree = "<group>";
 		};
-		36663DC61F989B2400856702 /* AppMonitorManager */ = {
-			isa = PBXGroup;
-			children = (
-				36663DC71F989B2400856702 /* AppMonitorManager.h */,
-				36663DC81F989B2400856702 /* AppMonitorManager.m */,
-			);
-			path = AppMonitorManager;
-			sourceTree = "<group>";
-		};
 		36E0D29A1F924AC500AF933D /* SKUIKit */ = {
 			isa = PBXGroup;
 			children = (
-				36663DC61F989B2400856702 /* AppMonitorManager */,
 				36E0D29B1F924AC500AF933D /* SKActionSheet */,
 				36E0D29E1F924AC500AF933D /* SKAlertView */,
 				36E0D3001F924AC500AF933D /* SKPickerView */,
@@ -444,7 +431,6 @@
 				364D1C741EFA586E00AC2595 /* AppDelegate.m in Sources */,
 				36E0D30A1F924AC500AF933D /* SKAlertView.m in Sources */,
 				364D1C711EFA586E00AC2595 /* main.m in Sources */,
-				36663DC91F989B2400856702 /* AppMonitorManager.m in Sources */,
 				36E0D3351F924AC500AF933D /* SKPickerView.m in Sources */,
 				36E0D3091F924AC500AF933D /* SKActionSheet.m in Sources */,
 			);
